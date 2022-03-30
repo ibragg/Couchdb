@@ -17,7 +17,7 @@ http://admin:admin@localhost:5984/new_db
 
 Подключаемся к порту
 
-![](c2.png)
+![](c1.png)
 
 ## Запуск
 
